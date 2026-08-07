@@ -1,9 +1,4 @@
- ![Nicolly Santos Banner](NICOLLY SANTOS.png)
 
-╭─────────────── ✦ ───────────────╮
-          NICOLLY SANTOS
-        Software Engineering 
-╰─────────────── ✦ ───────────────╯
 
 🎓 Software Engineering Student
 ✨ Creative mind
