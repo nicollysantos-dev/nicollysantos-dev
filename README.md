@@ -1,16 +1,30 @@
-## Hi there 👋
+ ![Nicolly Santos Banner](NICOLLY SANTOS.png)
 
-<!--
-**nicollysantos-dev/nicollysantos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+╭─────────────── ✦ ───────────────╮
+          NICOLLY SANTOS
+        Software Engineering 
+╰─────────────── ✦ ───────────────╯
 
-Here are some ideas to get you started:
+🎓 Software Engineering Student
+✨ Creative mind
+💻 Project builder
+🚀 Always improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student passionate about technology and programming.  
+Currently developing applications and continuously improving my skills in software development.
+
+## 🛠️ Skills & Learning
+🐍 Python — Main language, building projects
+
+🌐 HTML & CSS — Learning and creating interfaces
+
+⚡ JavaScript — Starting my journey
+
+
+
+
+
+
+
+
+
