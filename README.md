@@ -19,10 +19,9 @@ Currently developing applications and continuously improving my skills in softwa
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/nicollysantos-dev/nicollysantos-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <img src="https://raw.githubusercontent.com/nicollysantos-dev/nicollysantos-dev/main/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=nicollysantos-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/nicollysantos-dev/nicollysantos-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+ <img src="https://raw.githubusercontent.com/nicollysantos-dev/nicollysantos-dev/main/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ###
 
